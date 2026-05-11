@@ -32,3 +32,5 @@ An advanced Excel-based financial management system designed to move beyond simp
 This project was built following the detailed tutorial by **The Office Lab**.
 - **Video Tutorial:** [How to create Ultimate Personal Budget in Excel](https://www.youtube.com/watch?v=eKyAOjH3Crk)
 - **Source Inspiration:** [The Office Lab YouTube Channel](https://www.youtube.com/@TheOfficeLab)
+
+Note: All financial data included in the uploaded files is simulated for demonstration purposes and does not represent real personal information.
