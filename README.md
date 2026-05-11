@@ -4,21 +4,21 @@ An advanced Excel-based financial management system designed to move beyond simp
 
 ## 🚀 Key Features
 
-- **Zero-Based Budgeting:** Plan your income, expenses, and savings until your remaining balance is exactly zero [00:01:12].
-- **Dynamic Categories:** Fully customizable sections for Income, Expenses (Needs vs. Wants), and Savings [00:01:39].
-- **Multi-Period Planning:** Plan for the entire year with support for one-time annual payments, quarterly bills, and monthly variations [00:03:33].
+- **Zero-Based Budgeting:** Plan your income, expenses, and savings until your remaining balance is exactly zero.
+- **Dynamic Categories:** Fully customizable sections for Income, Expenses (Needs vs. Wants), and Savings.
+- **Multi-Period Planning:** Plan for the entire year with support for one-time annual payments, quarterly bills, and monthly variations.
 - **Automated Dashboard:** Interactive visual analysis of budget performance, including:
-  - Total Income vs. Total Expenses vs. Total Savings [00:12:59].
-  - Savings Rate KPI: "You are saving X% of your income" [06:00:39].
+  - Total Income vs. Total Expenses vs. Total Savings.
+  - Savings Rate KPI: "You are saving X% of your income".
   - Month-over-month performance breakdowns.
-- **Smart Tracking:** Advanced date-handling features that align paychecks with the correct budget month [00:10:20].
+- **Smart Tracking:** Advanced date-handling features that align paychecks with the correct budget month.
 
 ## 🛠️ Technical Details
 
-- **Named Ranges:** Utilizes dynamic named calculations (e.g., `Income_Header_Row`) for robust data referencing [00:31:18].
-- **Excel Functions:** Leverages `ADDRESS`, `INDIRECT`, and `SUMIFS` for dynamic data aggregation [00:35:38].
-- **Conditional Formatting:** Visual cues to highlight budget status (e.g., over-budget or fully allocated) [00:52:15].
-- **Data Integrity:** Separate calculation and data sheets to ensure front-end performance and back-end security [06:04:26].
+- **Named Ranges:** Utilizes dynamic named calculations (e.g., `Income_Header_Row`) for robust data referencing.
+- **Excel Functions:** Leverages `ADDRESS`, `INDIRECT`, and `SUMIFS` for dynamic data aggregation.
+- **Conditional Formatting:** Visual cues to highlight budget status (e.g., over-budget or fully allocated).
+- **Data Integrity:** Separate calculation and data sheets to ensure front-end performance and back-end security.
 
 ## 📖 How to Use
 
