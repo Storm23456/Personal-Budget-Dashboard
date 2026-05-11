@@ -15,7 +15,7 @@ An advanced Excel-based financial management system designed to move beyond simp
 
 ## 🛠️ Technical Details
 
-- **Named Ranges:** Utilizes dynamic named calculations (e.g., `Income_Header_Row`) for robust data referencing.
+- **Named Ranges:** Utilizes dynamic named calculations for robust data referencing.
 - **Excel Functions:** Leverages `ADDRESS`, `INDIRECT`, and `SUMIFS` for dynamic data aggregation.
 - **Conditional Formatting:** Visual cues to highlight budget status (e.g., over-budget or fully allocated).
 - **Data Integrity:** Separate calculation and data sheets to ensure front-end performance and back-end security.
