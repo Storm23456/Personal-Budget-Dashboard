@@ -1,5 +1,7 @@
 # Personal Budget Dashboard 📊
 
+<img width="1716" height="823" alt="Personal_Budget_Project" src="https://github.com/user-attachments/assets/752e4231-eb20-4ded-b376-0e1a6f489337" />
+
 An advanced Excel-based financial management system designed to move beyond simple expense tracking into proactive wealth management. This tool implements the **Zero-Based Budgeting** method, ensuring every dollar of your income is assigned a specific purpose.
 
 ## 🚀 Key Features
